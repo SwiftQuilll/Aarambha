@@ -1,6 +1,4 @@
 # Aarambha<br>
 This is my first Respository.<br>
-Author-Ashutosh Bhadoriya
-Ashutosh Singh Bhadoriya
-heyy you!!
-cl
+Author-Ashutosh Bhadoriya<br><br>
+heyy you!!<br><br>
